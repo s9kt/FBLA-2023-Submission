@@ -23,6 +23,22 @@
   text-align: center;
 }
 
+nav {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  background-color: rgb(94, 94, 94);
+}
+
+nav li.nav-item-left {
+  float: left;
+  padding: 1em;
+}
+
+nav li.nav-item-right {
+  margin-left: auto;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
