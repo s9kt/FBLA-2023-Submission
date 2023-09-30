@@ -27,7 +27,15 @@ nav {
   display: flex;
   list-style-type: none;
   flex-wrap: wrap;
-  background-color: rgb(94, 94, 94);
+  background-color: #242333;
+}
+
+nav a {
+  color: #ffffff;
+}
+
+nav a:hover {
+  color:#adb1ff;
 }
 
 nav li.nav-item-left {
