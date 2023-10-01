@@ -7,9 +7,7 @@ import Greet from "./components/Greet.vue";
 <template>
   <nav>
         <li class="nav-item-left"><a href="/">Home</a></li>
-        <li class="nav-item-left"><a href="/products">Products</a></li>
-        <li class="nav-item-left"><a href="/about">About</a></li>
-        <li class="nav-item-right"><a href="/contact">Contact</a></li>
+        <li class="nav-item-right"><a href="/login">Log In</a></li>
     </nav>
   <div class="container">
     <h1>Welcome to Tauri!</h1>
