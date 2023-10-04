@@ -5,7 +5,7 @@
   font-weight: 400;
 
   color: #f6f6f6;
-  background-color: #2f2f2f;
+  background-color: #240046;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -21,30 +21,6 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-}
-
-nav {
-  display: flex;
-  list-style-type: none;
-  flex-wrap: wrap;
-  background-color: #242333;
-}
-
-nav a {
-  color: #ffffff;
-}
-
-nav a:hover {
-  color:#adb1ff;
-}
-
-nav li.nav-item-left {
-  float: left;
-  padding: 1em;
-}
-
-nav li.nav-item-right {
-  margin-left: auto;
 }
 
 .logo {
